@@ -1,4 +1,4 @@
-from phone_password import *
+from phone_password import words_from_number
 import nose
 
 def test_squidward():
