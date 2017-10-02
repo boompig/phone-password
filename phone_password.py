@@ -1,20 +1,3 @@
-"""
-emacs: what I want to do
-- show line numbers
-- autocomplete
-- evil mode
-- skip past underscores to go back a word / forward a word
-- go up/down by more than 1 line at a time
-- auto-complete paths
-- select and copy/cut/paste sections of text
-- skip through blocks
-"""
-
-"""
-: phone #
-output: possible words
-"""
-
 from argparse import ArgumentParser
 import logging
 
